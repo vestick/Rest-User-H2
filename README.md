@@ -10,3 +10,4 @@ Dependencies:
 * Spring Data JPA
 * H2 Database
 * Spring Boot DevTools
+* Project Lombok
